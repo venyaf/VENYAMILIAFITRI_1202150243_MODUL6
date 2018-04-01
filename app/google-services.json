@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "923070736446",
+    "firebase_url": "https://venyamilia-1202150243-modul6.firebaseio.com",
+    "project_id": "venyamilia-1202150243-modul6",
+    "storage_bucket": "venyamilia-1202150243-modul6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923070736446:android:feb036a6130485e4",
+        "android_client_info": {
+          "package_name": "com.example.veny.venyamiliafitri_1202150243_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923070736446-5o2q28om53gca6a2ju982t5ht59dt5a8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.veny.venyamiliafitri_1202150243_modul6",
+            "certificate_hash": "e07263cbb1fb4bc21b24c80d15291d69bf4e67d9"
+          }
+        },
+        {
+          "client_id": "923070736446-rtsfmdnt5j5fo7k16at66fger1oegucl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYElVFs0s4kkyetnZQd_ravClvyphj550"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923070736446-rtsfmdnt5j5fo7k16at66fger1oegucl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
